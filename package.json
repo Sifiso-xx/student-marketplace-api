@@ -1,0 +1,23 @@
+{
+  "name": "student-marketplace-api",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Students need safer, more organised ways to list, search, save, and manage second-hand campus marketplace items.",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "graduate-portfolio",
+    "software-engineering",
+    "cloud",
+    "devops"
+  ],
+  "author": "Sifisokuhle Mavundla",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
