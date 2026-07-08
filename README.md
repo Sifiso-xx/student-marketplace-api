@@ -1,5 +1,9 @@
 # Student Marketplace API
 
+## Graduate Programme Fit
+
+This project is built to show backend software engineering beyond coursework: API design, workflow rules, validation, ownership checks, documentation, Docker-ready setup, and tests around the logic that matters. It is a practical example of turning a real student problem into a maintainable service.
+
 ## Level
 
 Backend/API focused
@@ -135,7 +139,7 @@ I built a Student Marketplace API to practise production-style backend engineeri
 
 ## Portfolio Description
 
-A production-style backend API for a student marketplace, focused on authentication, database design, listing workflows, and API documentation.
+A production-style backend API for a student marketplace, focused on listing workflows, ownership checks, validation, relational data modelling, API documentation, Docker, and automated tests.
 
 ## Commit Plan
 
